@@ -1,13 +1,29 @@
 - 👋 Hi, I’m @francisthuo
-- 👀 I’m interested in Web Development: Frontend and/or backend technologies, frameworks, and libraries.
-Mobile App Development: iOS, Android, or cross-platform development.
-Data Science and Machine Learning: Data analysis, predictive modeling, and AI applications.
-Game Development: Designing and coding games using engines like Unity or Unreal.
-Open Source Contribution
-- 🌱 I’m currently learning data visualization
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ... twiiter handle @kijana2fulani
-- 😄 Pronouns: ...
+- 👨‍💻 IT Specialist | Tech Enthusiast | Problem Solver
+
+Welcome to my corner of GitHub! I'm a passionate IT professional who thrives on solving complex problems and building innovative solutions. With a strong foundation in programming languages, cloud technologies and networking I’m always exploring new tools, frameworks, and technologies.
+
+🔧 What I Do:
+
+Full-stack development
+Systems administration & automation
+Cloud solutions (AWS, Azure, GCP)
+Network design and troubleshooting
+Cybersecurity best practices
+🚀 Current Projects:
+
+[autonomous lane detection system]
+
+
+Languages: Python, JavaScript, SQL
+Tools: Docker,  Terraform
+Platforms: AWS, Azure, Linux, Windows Server
+📫 Let's Connect:
+Feel free to check out my repositories, and don't hesitate to reach out if you want to collaborate or discuss tech!
+
+
+- 📫 How to reach me ... twitter handle @kijana2fulani
+
 - ⚡ Fun fact: ... can solve a 4 by 4 rubik in under a minute
 
 <!---

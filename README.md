@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @francisthuo
-- 👨‍💻 IT Specialist | Tech Enthusiast | Problem Solver
+- 👨‍💻 IT Specialist | Web Developer | Tech Enthusiast | Problem Solver
 
-Welcome to my corner of GitHub! I'm a passionate IT professional who thrives on solving complex problems and building innovative solutions. With a strong foundation in programming languages, cloud technologies and networking I’m always exploring new tools, frameworks, and technologies.
+Welcome to my GitHub corner.I'm a passionate IT professional who thrives on solving complex problems and building innovative solutions. I have a strong foundation in programming languages, cloud technologies and networking I’m always exploring new tools, frameworks, and technologies.
 
 🔧 What I Do:
 
 Full-stack development
 Systems administration & automation
-Cloud solutions (AWS, Azure, GCP)
+Cloud solutions (AWS, Azure)
 Network design and troubleshooting
+system administrator
 Cybersecurity best practices
 🚀 Current Projects:
 
